@@ -101,6 +101,7 @@ namespace Server.Installer
                 var webServerType = ConsoleHelper.GetSelection("Which web server will be used?",
                     "Caddy on Ubuntu",
                     "Nginx on Ubuntu",
+                    "Nginx on Debian",
                     "Caddy on CentOS",
                     "Nginx on CentOS",
                     "IIS on Windows Server 2016+");
