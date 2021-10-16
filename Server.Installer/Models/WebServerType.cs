@@ -12,6 +12,7 @@ namespace Server.Installer.Models
     {
         UbuntuCaddy,
         UbuntuNginx,
+        DebianNginx,
         CentOsCaddy,
         CentOsNginx,
         IisWindows
