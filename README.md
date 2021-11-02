@@ -5,11 +5,6 @@ A remote control and remote scripting solution, built with .NET 5, Blazor, Signa
 ![GitHub Build](https://github.com/lucent-sea/Remotely/workflows/GitHub%20Build/badge.svg)
 
 
-> ## Repo is "On Pause"
-> My family and I have recently moved into a new house.  Until we've settled in and adjusted to the changes, the repo will be archived.  This is for my own peace of mind, as it's rather stressful to see requests/issues come in when I don't have time to address them.
->
-> Once I'm ready to resume the project, the archival will be removed.
-
 ## Donations
 If this project has benefited you in some way, or if you just want to show appreciation, please consider donating to a charity.
 
@@ -27,7 +22,7 @@ Public Server: https://app.remotely.one
 Website: https://remotely.one  
 Subreddit: https://www.reddit.com/r/remotely_app/  
 Docker: https://hub.docker.com/r/translucency/remotely  
-Video Tutorials: https://remotely-info.lucency.co/Tutorials  
+Video Tutorials: https://remotely.one/Tutorials  
 
 ![image](https://remotely.one/media/ask-remote.png)
 
